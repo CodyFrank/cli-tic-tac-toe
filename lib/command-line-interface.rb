@@ -1,6 +1,7 @@
 class CommandLineInterface
     def run
-        puts "hello World"
+        board = Board.new
+        puts board
     end
 
 end
