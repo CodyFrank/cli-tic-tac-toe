@@ -1,5 +1,1 @@
-class CommandLineInterface
-    def run
-        puts "Hello World"
-    end
-end
+require_relative "./command-line-interface"
